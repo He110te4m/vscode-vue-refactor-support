@@ -1,0 +1,9 @@
+{
+    "typescript.tsc.autoDetect": "off",
+    "typescript.preferences.quoteStyle": "single",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4A1C46",
+        "titleBar.activeBackground": "#672761",
+        "titleBar.activeForeground": "#FDF9FC"
+    }
+}
