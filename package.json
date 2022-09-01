@@ -2,13 +2,15 @@
   "name": "vscode-vue-refactor-support",
   "displayName": "vscode-vue-refactor-support",
   "description": "",
+  "author": "He110",
+  "license": "MIT",
+  "publisher": "he110te4m",
+  "categories": [],
+  "keywords": [],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
   },
-  "categories": [
-    "Other"
-  ],
   "activationEvents": [
     "onCommand:vscode-vue-refactor-support.helloWorld"
   ],
